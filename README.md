@@ -1,4 +1,4 @@
-# Custom LLM Chatbot with Conversational Retrieval
+# Custom-LLM-Chatbot-with-Conversational-Retrieval
 
 ## Overview
 
@@ -21,7 +21,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SAYAPUREDDY/Custom LLM Chatbot with Conversational Retrieval.git
+   git clone https://github.com/SAYAPUREDDY/Custom-LLM-Chatbot-with-Conversational-Retrieval.git
    ```
 2. Setup Your Environment Vairables:
 
