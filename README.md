@@ -1,4 +1,4 @@
-# Chatbot with Conversational Retrieval and Google Generative AI
+# Custom LLM Chatbot with Conversational Retrieval
 
 ## Overview
 
@@ -21,7 +21,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-repo.git
+   git clone https://github.com/SAYAPUREDDY/Custom LLM Chatbot with Conversational Retrieval.git
    ```
 2. Setup Your Environment Vairables:
 
